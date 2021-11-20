@@ -1,4 +1,4 @@
-# Sistem to Hackaton [ENAETEC](https://www.instagram.com/enaetec/) 
+# System Winner of Hackathon [ENAETEC](https://www.instagram.com/enaetec/) 
 
 >Status: Finished ✔️
 
