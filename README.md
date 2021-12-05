@@ -55,16 +55,6 @@
   
 ```
 ---
-## How to test ?
-
-To test it just use the link bellow : 
-
-Sistem : [https://sistem-enatec.herokuapp.com](https://sistem-enatec.herokuapp.com)
-
-```
-  Admin Password: adminadmin
-```
----
 
 <h2 align='center'>authors</h2>
 <div align='center'>
