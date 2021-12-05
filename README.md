@@ -6,7 +6,7 @@
 ---
 ## Sistem functions 
 + The citizen can report a new problem at city infrastructure.
-+ The ADMIn in this case the city managers, can check the new reports and deny it or aprove to analyse.
++ The ADMIN in this case the city managers, can check the new reports and deny it or aprove to analyse.
 + On analyse are the managers can aprove the report or not , and if they want delete it.
 ---
 ## Additional functions
